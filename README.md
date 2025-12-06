@@ -10,5 +10,6 @@ eso si que la extension esta Beta y como que no la voy a actualizar :D por ahora
 ---
 
 ### Hecho con
-- CMD/Shell Scripting 
-- Winrar
+- JavaScript
+- CSS
+- HTML5
