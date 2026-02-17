@@ -7,6 +7,8 @@ Es una extension que es un tipo de control parentar y ver que hace el usuario su
 
 eso si que la extension esta Beta y como que no la voy a actualizar :D por ahora
 
+> _Esta extension caduco hace mucho_
+
 ---
 
 ### Hecho con
